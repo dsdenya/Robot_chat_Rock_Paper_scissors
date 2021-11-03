@@ -53,7 +53,6 @@ def send_message(message):
     response = respond(message)
     print(f"BOT: {response}")
 
-# hi shoya this is Bibi- your code works now! thank you for joining us! and hope to see you again in the future! you could delete this comment haha, just didn't know how to reach you XD
 
 while True: 
     my_input = input()
